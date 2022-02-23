@@ -1,0 +1,283 @@
+{
+    "affiliation.iub.edu.pk": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "121.52.159.131"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.29 (Ubuntu)"
+    },
+    "alumni.iub.edu.pk": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "121.52.159.160",
+            "110.39.164.109"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "bbb.iub.edu.pk": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "121.52.159.168"
+        ],
+        "code": 200,
+        "server": "nginx/1.10.3 (Ubuntu)"
+    },
+    "cmb.iub.edu.pk": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "121.52.159.167",
+            "110.39.164.110"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "enterpriseregistration.iub.edu.pk": {
+        "domain": "www.tm.prd.adrs.akadns.net",
+        "alias": [
+            "enterpriseregistration.iub.edu.pk",
+            "enterpriseregistration.windows.net",
+            "adrs.privatelink.msidentity.com"
+        ],
+        "ipaddr": [
+            "20.190.129.168"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "eportal.iub.edu.pk": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "121.52.159.131",
+            "110.39.164.102"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.29 (Ubuntu)"
+    },
+    "enterpriseenrollment.iub.edu.pk": {
+        "domain": "pexsucpap02.japaneast.cloudapp.azure.com",
+        "alias": [
+            "enterpriseenrollment.iub.edu.pk",
+            "enterpriseenrollment.manage.microsoft.com",
+            "manage-pe.trafficmanager.net"
+        ],
+        "ipaddr": [
+            "40.79.197.66"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "exams.iub.edu.pk": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "121.52.159.165"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "finance.iub.edu.pk": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "121.52.159.136",
+            "110.39.164.103"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.29 (Ubuntu)"
+    },
+    "idp.iub.edu.pk": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "121.52.159.177"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "iss.iub.edu.pk": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "121.52.159.160",
+            "110.39.164.109"
+        ],
+        "code": 200,
+        "server": "nginx/1.18.0 (Ubuntu)"
+    },
+    "its.iub.edu.pk": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "110.39.164.115",
+            "121.52.159.164"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "journals.iub.edu.pk": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "121.52.159.135"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.41 (Ubuntu)"
+    },
+    "itr.iub.edu.pk": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "121.52.159.151"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "jer.iub.edu.pk": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "121.52.159.167",
+            "110.39.164.110"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "lms.iub.edu.pk": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "110.39.164.106",
+            "121.52.159.139"
+        ],
+        "code": 200,
+        "server": "Apache"
+    },
+    "lyncdiscover.iub.edu.pk": {
+        "domain": "webdir.online.lync.com",
+        "alias": [
+            "lyncdiscover.iub.edu.pk"
+        ],
+        "ipaddr": [
+            "52.113.64.150"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "library.iub.edu.pk": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "121.52.159.167",
+            "110.39.164.110"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "meet.iub.edu.pk": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "110.39.164.109",
+            "121.52.159.160"
+        ],
+        "code": 200,
+        "server": "nginx/1.18.0 (Ubuntu)"
+    },
+    "my.iub.edu.pk": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "121.52.159.166",
+            "110.39.164.112"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.29 (Ubuntu)"
+    },
+    "msoid.iub.edu.pk": {
+        "domain": "www.tm.a.prd.aadg.trafficmanager.net",
+        "alias": [
+            "msoid.iub.edu.pk",
+            "clientconfig.microsoftonline-p.net",
+            "a.privatelink.msidentity.com",
+            "prda.aadg.msidentity.com"
+        ],
+        "ipaddr": [
+            "20.190.146.39",
+            "20.190.146.34",
+            "40.126.18.32",
+            "20.190.146.37",
+            "20.190.146.32",
+            "20.190.146.38",
+            "20.190.146.35",
+            "20.190.146.36"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "opac.iub.edu.pk": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "121.52.159.154"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.41 (Ubuntu)"
+    },
+    "projects.iub.edu.pk": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "110.39.164.109",
+            "121.52.159.160"
+        ],
+        "code": 200,
+        "server": "nginx/1.18.0 (Ubuntu)"
+    },
+    "sip.iub.edu.pk": {
+        "domain": "sipdir.online.lync.com",
+        "alias": [
+            "sip.iub.edu.pk"
+        ],
+        "ipaddr": [
+            "52.113.64.147"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "survey.iub.edu.pk": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "121.52.159.161"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.29 (Ubuntu)"
+    },
+    "www.iub.edu.pk": {
+        "domain": "iub.edu.pk",
+        "alias": [
+            "www.iub.edu.pk"
+        ],
+        "ipaddr": [
+            "110.39.164.105",
+            "121.52.159.138"
+        ],
+        "code": 200,
+        "server": "Apache/2.4.18 (Ubuntu)"
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "5.2.0",
+        "time_start": 1640421999.998827,
+        "time_end": 1640422724.9923394,
+        "domain": "iub.edu.pk",
+        "wordlist": 10759
+    }
+}

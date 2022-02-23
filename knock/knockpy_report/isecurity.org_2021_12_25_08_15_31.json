@@ -1,0 +1,57 @@
+{
+    "cpanel.isecurity.org": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "95.211.73.102"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ftp.isecurity.org": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "95.211.73.102"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mail.isecurity.org": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "5.79.69.19"
+        ],
+        "code": 403,
+        "server": "Apache"
+    },
+    "whm.isecurity.org": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "95.211.73.102"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.isecurity.org": {
+        "domain": "isecurity.org",
+        "alias": [
+            "www.isecurity.org"
+        ],
+        "ipaddr": [
+            "95.211.73.102"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "5.2.0",
+        "time_start": 1640419426.6375291,
+        "time_end": 1640420131.3330936,
+        "domain": "isecurity.org",
+        "wordlist": 10756
+    }
+}
